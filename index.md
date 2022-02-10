@@ -1,13 +1,13 @@
-## Welcome to GitHub Pages
+## Welcome
 
-You can use the [editor on GitHub](https://github.com/spiii/spiii.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+ [editor on GitHub](https://github.com/spiii/spiii.github.io/edit/main/index.md)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-https://github.com/spiii/spiii.github.io
+
 
 ### Rider shortcuts
-Alt+Shift+Page Down
+Alt+Shift+Page Down -> Jump to Error
 
 ### Markdown
 
